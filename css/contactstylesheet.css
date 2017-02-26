@@ -1,5 +1,6 @@
 body {
-	background: url("../img/gradientbackground.jpg") no-repeat center center fixed;
+	background: url("../img/contact.jpg") no-repeat center center fixed;
+	background-size: cover;
 	font-family: "Bern Sans CT";
 }
 
@@ -17,7 +18,6 @@ p{
 .justified-text {
 	text-align: justify;
 	border: solid;
-
 }
 .footer_row {
 	vertical-align: bottom 10px;
@@ -59,15 +59,9 @@ p{
 	padding-top: 5px;
 	max-width: 100%;
 }
-.banner {
-	min-width: 100%;
-	border-radius: 2px; 
-	border-width: 2px;
-	border-color:  #e0ebeb; 
-	border-style: solid;
+
+.contact-details {
+	border: 2px solid #e0ebeb;
+	border-radius: 2px;
+	margin-top: 100px;
 }
-.text-box {
-	border-style: solid;
-	background: #e0ebeb;
-	opacity: 0.4;
-	}
