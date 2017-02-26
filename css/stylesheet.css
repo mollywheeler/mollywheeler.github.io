@@ -1,0 +1,53 @@
+body {
+	background: url("../img/gradientbackground.jpg") no-repeat center center fixed;
+	font-family: "Bern Sans CT";
+}
+
+h1 {
+	color:  #1e2f2f;
+	text-align: center;
+}
+img{
+	max-width: 100%
+}
+p{
+	padding: 5px;
+	margin: 5px;
+}
+
+.contact-title {
+	position: relative;
+    top: 125px;
+    right: 110px;
+}
+.justified-text {
+	text-align: justify
+	border: solid;
+
+}
+.footer_row {
+	vertical-align: bottom 10px;
+}
+.image-thumb {
+	max-width: 100%;
+}
+.fourpics {
+	border-radius: 2px; 
+	border-width: 2px;
+	border-color:  #e0ebeb; 
+	border-style: solid;
+	max-width: 100%;
+}
+.jackalopethumbnail{
+	height: 50px;
+    width: auto;
+    padding: 3px;
+}
+.navbar{
+	color:#e0ebeb;
+}
+.navbar-footer{
+	position: fixed;
+  	bottom: 0px;
+
+}
